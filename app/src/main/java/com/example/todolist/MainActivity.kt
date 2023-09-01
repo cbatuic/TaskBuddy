@@ -30,3 +30,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+/* Case Study: Task Buddy */
